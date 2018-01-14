@@ -1,0 +1,48 @@
+﻿  Driver.cpp
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\cloud.h(9): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\cloud.h(10): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\cloud.h(11): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\cloud.h(13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\cloud.h(31): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\cloud.h(34): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\rotationalobject.h(55): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\pine.h(20): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\pine.h(20): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\pine.h(87): warning C4244: 'argument': conversion from 'GLfloat' to 'unsigned int', possible loss of data
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\pine.h(88): warning C4244: 'argument': conversion from 'GLfloat' to 'unsigned int', possible loss of data
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\pine.h(89): warning C4244: 'argument': conversion from 'GLfloat' to 'unsigned int', possible loss of data
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\pine.h(90): warning C4244: 'argument': conversion from 'GLfloat' to 'unsigned int', possible loss of data
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\pine.h(91): warning C4244: 'argument': conversion from 'GLfloat' to 'unsigned int', possible loss of data
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\pine.h(92): warning C4244: 'argument': conversion from 'GLfloat' to 'unsigned int', possible loss of data
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\pine.h(10): warning C4101: 'z': unreferenced local variable
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\pine.h(10): warning C4101: 'y': unreferenced local variable
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\pine.h(10): warning C4101: 'x': unreferenced local variable
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\pine.h(136): warning C4018: '>=': signed/unsigned mismatch
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\pine.h(137): warning C4244: 'return': conversion from 'GLuint' to 'GLfloat', possible loss of data
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\pine.h(138): warning C4244: 'return': conversion from 'GLuint' to 'GLfloat', possible loss of data
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\pinetree.h(11): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\firefly.h(19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\firefly.h(20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\firefly.h(21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\firefly.h(77): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\firefly.h(83): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\mapletree.h(16): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\driver.cpp(59): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\driver.cpp(207): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\driver.cpp(241): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\driver.cpp(242): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\driver.cpp(249): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\driver.cpp(250): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\driver.cpp(257): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\driver.cpp(258): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\driver.cpp(265): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\driver.cpp(266): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\driver.cpp(278): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\driver.cpp(319): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\driver.cpp(320): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\driver.cpp(324): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\driver.cpp(325): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\driver.cpp(327): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\helen\documents\repository\comp371-group7\comp371-group7\driver.cpp(328): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Comp371-Group7.vcxproj -> C:\Users\Helen\Documents\Repository\Comp371-Group7\x64\Debug\Comp371-Group7.exe
+  Comp371-Group7.vcxproj -> C:\Users\Helen\Documents\Repository\Comp371-Group7\x64\Debug\Comp371-Group7.pdb (Partial PDB)
