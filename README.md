@@ -1,7 +1,7 @@
 # A Magical Journey Through A Procedurally Generated Forest
 
 ## About
-This project takes the user through a procedurally generated world using C++ and OpenGL 3.0. The goal is to show our knowledge on using shaders and buffering data through the graphics pipeline. By procedurally generating the world, no two scenes are the same when the program is ran a second time.
+This project takes the user through a procedurally generated world using C++ and OpenGL 3.0. The goal is to show our knowledge on using shaders and buffering data through the graphics pipeline. By procedurally generating the world, no two scenes are exactly the same.
 
 ## Build Environment
 The project was built using Visual Studio 2015 in C++ with OpenGL 3.0. All necessary dependencies and libraries are included within the project in their respective folders.
